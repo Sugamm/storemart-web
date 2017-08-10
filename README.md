@@ -15,6 +15,5 @@
 4. Add New City
 ![alt tag](https://github.com/Sugamm/storemart-web/blob/master/images/3.png)
 
-==============================================================
-# Enjoy.
-==============================================================
+# Playstore link
+https://play.google.com/store/apps/details?id=com.informci.sugam.flamart
