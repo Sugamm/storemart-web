@@ -1,4 +1,4 @@
-# storemart-web
+# Storemart Web Code
 ### A must have app to shop and helps you to find nearby local e-commerce stores.
 
 ## Screenshot
@@ -17,3 +17,6 @@
 
 # Playstore link
 https://play.google.com/store/apps/details?id=com.informci.sugam.flamart
+
+# Android Code
+https://github.com/Sugamm/storemart-android
